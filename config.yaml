@@ -37,16 +37,16 @@ products:
 
   # Weiteres Gerät? Einfach einen zweiten Eintrag nach demselben Muster anlegen:
   - name: "UGREEN NASync DXP4800GT"
-     eans:
-       - "0313110477441"
-     title_must_include:
+    eans:
+      - "0313110477441"
+    title_must_include:
       - "NASync"
-     title_must_exclude: []
-     max_price: 600.0
-     allow_used: false
-     urls:
-       idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
-       amazon: "https://www.amazon.de/dp/B0D3PP64JS"
+    title_must_exclude: []
+    max_price: 600.0
+    allow_used: false
+    urls:
+      idealo: "https://www.idealo.de/preisvergleich/OffersOfProduct/…"
+      amazon: "https://www.amazon.de/dp/B0D3PP64JS"
 
 location:
   postal_code: "74321"
